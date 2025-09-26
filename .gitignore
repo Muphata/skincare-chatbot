@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env
+skincarefinalproject/Lib/
+skincarefinalproject/Include/
+skincarefinalproject/Scripts/
+
+# Model / index data
+faiss_index_txt/
+models--*/
+
+# Gradio temp & logs
+.gradio/
+
+# Jupyter / Colab checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db

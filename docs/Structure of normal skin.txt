@@ -1,0 +1,111 @@
+The layers of the skin
+From top to bottom, the skin consists of 3 layers:
+
+Epidermis
+Dermis
+Subcutis
+
+A. Epidermis
+The epidermis
+
+ is the uppermost or epithelial layer of the skin. It acts as a physical barrier, preventing loss of water from the body, and preventing entry of substances and organisms into the body. Its thickness varies according to the body site.
+
+The epidermis consists of stratified squamous epithelium. That means it consists of layers of flattened cells.
+
+Skin, hair
+
+ and nails are keratinised, meaning they have a dead and hardened impermeable surface made of a protein called keratin.
+Mucous membranes are non-keratinised and moist.
+The epidermis has three main types of cell:
+
+Keratinocytes (skin cells)
+Melanocytes (pigment-producing cells)
+Langerhans cells (immune cells).
+Special stains are often required to tell the difference between melanocytes and Langerhans cells. The Merkel cell is a fourth, less visible, epidermal cell.
+
+The epidermis forms an undulating appearance, with intermittent regular protrusions of the epidermis layer (rete ridges or pegs) into the upper layers of the underlying dermis. In some areas of the body such as the palms and soles, the rete pegs are less pronounced. The pillars of dermis next to the dermal papillae form the rete ridges. The small area of epidermis between rete pegs is called the suprapapillary plate.
+
+Keratinocytes
+The keratinocytes become more mature or differentiated and accumulate keratin as they move outwards. They eventually fall or rub off. They form four distinct layers, described in the table below from the most superficial to the deepest.
+
+Layer
+
+Cell type
+
+Stratum corneum (horny layer)
+
+Called corneocytes or squames.
+
+Dead, dried-out hard cells without nuclei.
+
+Stratum granulosum (granular layer)
+
+Cells contain basophilic granules.
+
+Waxy material is secreted into the intercellular spaces.
+
+Stratum spinulosum (spinous, spiny or prickle cell layer)
+
+Intercellular bridges called desmosomes link the cells together.
+
+The cells become increasingly flattened as they move upward.
+
+Stratum basale (basal layer)
+
+Columnar (tall) regenerative cells.
+
+As the basal cell divides, a daughter cell migrates upwards to replenish the layer above.
+
+Immediately below the epidermis is the basement membrane, a specialised structure that lies between the epidermis and dermis. It includes various protein structures linking the basal layer of keratinocytes to the basement membrane (hemidesmosomes) and the basement membrane to the underlying dermis (anchoring fibrils). The basement membrane has an important role in making sure the epidermis sticks tightly to the underlying dermis.
+
+The epidermis gives rise to a number of specialised appendages also called adnexal structures or adnexae. Hair and nails are both examples, i.e. they are specialised structures formed by the direct extension of the epidermis. The hair follicles are associated with sebaceous (oil) glands and arrector pili smooth muscle. This muscle is responsible for goose bumps appearing on the skin in response to cold.
+
+The epidermis also gives rise to eccrine (sweat) glands, a tangle of tubules deep within the dermis that secrete a watery salt solution into a duct that ends on the skin surface. Larger apocrine sweat glands are found in the armpits and groin.
+
+Different areas of the body have different proportions of the adnexal and hair follicle structures present. For example:
+
+Dense hair on the scalp and none on the palms
+Intense sweating from armpits, palms and soles compared with elsewhere.
+Melanocytes
+Melanocytes are found in the basal layer of the epidermis. These cells produce a pigment called melanin, which is responsible for different skin colour. Melanin is packaged into small parcels (or melanosomes), which are then transferred to keratinocytes.
+
+Langerhans cells
+Langerhans cells are immune cells found in the epidermis and are responsible for helping the body learn and later recognise new ‘allergens’ (material foreign to the body).
+
+Langerhans cells break the allergen into smaller pieces then migrate from the epidermis into the dermis. They find their way to lymphatics and blood vessels before eventually reaching the lymph nodes. Here they present the allergen to immune cells called lymphocytes. Once the allergen is successfully ‘presented’, the lymphocytes initiate a sequence of events to: (1) initiate an immune reaction to destroy the material, and (2) stimulate proliferation of more lymphocytes that recognise and remember the allergen in the future.
+
+Merkel cells
+Merkel cells are cells found in the basal layer of the epidermis. Their exact role and function are not well understood. Special immunohistochemical stains are needed to visualise Merkel cells.
+
+B. Dermis
+The dermis is the fibrous connective tissue or supportive layer of the skin. The major fibres are:
+
+Collagen fibres: this type of fibre predominates in the dermis. Collagen fibres have enormous tensile strength and provide the skin with strength and toughness. Collagen bundles are small in the upper or papillary dermis and form thicker bundles in the deeper or reticular dermis.
+Elastin: this type of fibre provides the properties of elasticity and pliability to the skin.
+The collagen and elastin fibres are bound together by ground substance, a mucopolysaccharide gel in which the nutrients and wastes can diffuse to and from other tissue components. The dermis also contains nerves, blood vessels, epidermal adnexal structures (as described above), and cells.
+
+The normal cells in the dermis include:
+
+Mast cells
+
+. These contain granules packed with histamine and other chemicals, released when the cell is disturbed.
+Vascular smooth muscle cells. These allow blood vessels to contract and dilate, required to control body temperature.
+Specialised muscle cells. For example, myoepithelial cells are found around sweat glands and contract to expel sweat.
+Fibroblasts. These are cells that produce and deposit collagen and other elements of the dermis as required for growth or to repair wounds. A resting fibroblast has very little cytoplasm compared with an active cell and appears to have a ‘naked’ nucleus.
+Immune cells. There are many types of immune cell. The role of tissue macrophages (histiocytes) is to remove and digest foreign or degraded material (this is known as phagocytosis). There are also small numbers of lymphocytes in the normal dermis.
+Transient inflammatory cells or leukocytes are white cells that leave the blood vessels to heal wounds, destroy infections or cause disease. They include:
+
+Neutrophils (polymorphs). These have segmented nuclei. They are the first white blood cells to enter tissue during acute inflammation.
+T and B Lymphocytes
+
+. These are small inflammatory cells with many subtypes. They arrive later but persist for longer in inflammatory skin conditions. They are important in the regulation of immune response. Plasma cells are specialised lymphocytes that produce antibody.
+Eosinophils. These have bilobed nuclei and pink cytoplasm on H&E stain.
+Monocytes. These form macrophages.
+The skin cells communicate by releasing large numbers of biologically active cytokines and chemotactic factors that regulate their function and movement. These are too small to see on light microscopy.
+
+C. Subcutis
+The subcutis
+
+ is the fat layer immediately below the dermis and epidermis. It is also called subcutaneous tissue, hypodermis or panniculus.
+
+The subcutis mainly consists of fat cells (adipocytes), nerves and blood vessels. Fat cells are organised into lobules, which are separated by structures called septae. The septae contain nerves, larger blood vessels, fibrous tissue and fibroblasts. Fibrous septae may form dimples in the skin (so-called cellulite).
