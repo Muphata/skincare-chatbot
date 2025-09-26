@@ -260,4 +260,4 @@ with gr.Blocks(theme=gr.themes.Soft()) as demo:
     clear.click(lambda: ([], [], {"ingredients": []}), None, [chatbot, state, ocr_state])
 
 if __name__ == "__main__":
-    demo.launch()
+    demo.launch(share=True)
