@@ -22,3 +22,6 @@ models--*/
 # System files
 .DS_Store
 Thumbs.db
+
+skincarechat demo.mp4
+*.mp4
