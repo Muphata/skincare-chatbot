@@ -24,3 +24,6 @@ gradio>=4.0.0
 # Utilities
 pydantic>=2.0.0
 tqdm>=4.65.0
+
+unstructured
+unstructured[all-docs]
